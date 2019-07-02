@@ -128,14 +128,7 @@ __webpack_require__.r(__webpack_exports__);
 var Form = function Form() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "form"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
-    className: "title"
-  }, "User Name:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
-    className: "input usrName",
-    type: "String",
-    name: "usrName",
-    placeholder: "Your name here"
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "title"
   }, "Email:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
     className: "input email",
