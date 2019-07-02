@@ -1,6 +1,11 @@
 import React from 'react'
 
 const Form = () => {
+  state = {
+    title: title, // Need to get from the Redux Store
+    type: type // Need to get from the Redux Store
+  }
+  
   return (
     <React.Fragment>
       <div className="form">
