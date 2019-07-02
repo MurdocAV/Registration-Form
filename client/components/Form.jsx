@@ -4,7 +4,6 @@ const Form = () => {
   return (
     <React.Fragment>
       <div className="form">
-        <div></div>
         <div><span className="title">Email:</span><input className="input email" type="email" name="emailaddress" placeholder="Your email here"></input></div>
           <br></br>
         <div><span className="title">Password:</span> <input className="input pass" type="password" name="pwd" placeholder="Enter your password"></input></div>

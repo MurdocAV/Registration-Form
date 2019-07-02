@@ -4,8 +4,8 @@ const Form = (props) => {
   return (
     <React.Fragment>
       <div>
-        <span className="title">User Name:</span>
-        <input className="input usrName" type="String" name="usrName" placeholder="Your name here"></input>
+        <span className="title">{props.titile}</span>
+        <input className="input usrName" type="String" name="usrName" placeholder={`Your ${props.type} here`}></input>
       </div>
     </React.Fragment>
   )
