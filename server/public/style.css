@@ -1,7 +1,7 @@
 /* Moving gradient background */
 html {
-	width: 100wh;
 	height: 90vh;
+	width: 100vw;
 	color: #fff;
 	background: linear-gradient(-45deg, #F2774B, #F2775C, #F2A69F, #F2A7B4);
 	background-size: 400% 400%;
